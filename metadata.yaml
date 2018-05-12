@@ -1,0 +1,30 @@
+_repo: Nouvel-atlas-de-poche-des-champignons-Comestibles-et-V-n-neux-les-plus-r-pandus.-S-rie-I--Tro__34715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumée, Paul
+    alias: Dumee, Paul
+    gutenberg_agent_id: '37192'
+    url: http://www.gutenberg.org/2009/agents/37192
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34715'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mushrooms'
+- !lcc 'QK'
+title: 'Nouvel atlas de poche des champignons Comestibles et Vénéneux les plus répandus.
+  Série I (Troisième édition)
+
+  Suivi de notions générales sur les champignons, leur classification, composition
+  chimique, valeur alimentaire, préparation'
+url: http://www.gutenberg.org/ebooks/34715
